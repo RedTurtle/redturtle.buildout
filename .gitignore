@@ -3,4 +3,5 @@ buildout.cfg
 eggs/
 include/
 lib/
-
+parts/
+var/
