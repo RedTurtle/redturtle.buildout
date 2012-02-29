@@ -1,0 +1,6 @@
+bin/
+buildout.cfg
+eggs/
+include/
+lib/
+
